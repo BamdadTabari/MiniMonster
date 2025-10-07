@@ -1,0 +1,139 @@
+# Build folders
+bin/
+obj/
+out/
+publish/
+artifacts/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+.vscode-insiders/            # VS Code Insiders settings
+.history/
+
+# .NET Core / .NET
+project.lock.json
+project.fragment.lock.json
+*.pidb
+*.svclog
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of PackageReference
+**/packages/
+*.snupkg
+.nuget/
+.nuget/packages/
+
+# Azure Functions
+bin/
+obj/
+local.settings.json
+
+# Entity Framework
+efmigrations/
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# User secrets
+secrets.json
+secrets.*.json
+secrets/
+# If you use dotnet user-secrets they live outside the repo by default, but include patterns just in case:
+secrets.json
+
+# Logs
+*.log
+logs/
+*.tlog
+*.vspscc
+
+# Publish and deployment
+*.publishsettings
+*.Publish.xml
+AppPackages/
+publish/
+
+# Rider / ReSharper caches
+_ReSharper*/
+*.DotSettings.user
+
+# Test Results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# Profiling
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# npm / frontend (if present)
+node_modules/
+dist/
+build/
+
+# Docker
+docker-compose.override.yml
+**/.env
+.env
+
+# Certificates / PFX
+*.pfx
+*.cer
+*.key
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# JetBrains Rider local run configs
+.idea/
+
+# Editor backups
+*~ 
+# Visual Studio Code Insiders workspace storage
+.vscode-test/
+
+# Ignore local database used for dev (if any)
+*.LocalDB
+*.mdf
+
+# Optional: ignore published single-file or framework-dependent outputs
+*.exe
+*.dll
+*.pdb
+
+# Git LFS placeholders (if you use git-lfs)
+*.gitattributes.lock
+
+# Uncomment if you use Visual Studio Code remote container features
+# .devcontainer/
+
+# End of file

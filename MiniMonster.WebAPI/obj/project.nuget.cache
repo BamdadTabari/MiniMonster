@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "b5w1hMG3rKo=",
+  "dgSpecHash": "xw4fQgtxlrY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.WebAPI\\MiniMonster.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Amir1\\Desktop\\proje\\MiniMonster\\MiniMonster.WebAPI\\MiniMonster.WebAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fcfar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
-    "C:\\Users\\fcfar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.6\\microsoft.netcore.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.6\\microsoft.windowsdesktop.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.6\\microsoft.aspnetcore.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.6\\microsoft.netcore.app.host.win-x64.9.0.6.nupkg.sha512"
   ],
   "logs": []
 }

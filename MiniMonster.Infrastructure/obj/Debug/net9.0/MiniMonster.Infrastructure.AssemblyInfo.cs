@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniMonster.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b146cb540d89c4cea2f9f7fafb7478b9bffff1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d38b982be81a32e5361b5fb03f10cc165c06529")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniMonster.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniMonster.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

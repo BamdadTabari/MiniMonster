@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5NGRPYdLT6I=",
+  "dgSpecHash": "32A/Dxj56yE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Amir1\\Desktop\\proje\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.6\\microsoft.netcore.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.6\\microsoft.windowsdesktop.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\Amir1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.6\\microsoft.aspnetcore.app.ref.9.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
