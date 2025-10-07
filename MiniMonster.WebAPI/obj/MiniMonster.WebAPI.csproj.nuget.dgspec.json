@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.WebAPI\\MiniMonster.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj",
+        "projectName": "MiniMonster.Application",
+        "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj",
+        "packagesPath": "C:\\Users\\fcfar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fcfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Domain\\MiniMonster.Domain.csproj": {
+                "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Domain\\MiniMonster.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Domain\\MiniMonster.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Domain\\MiniMonster.Domain.csproj",
+        "projectName": "MiniMonster.Domain",
+        "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Domain\\MiniMonster.Domain.csproj",
+        "packagesPath": "C:\\Users\\fcfar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fcfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Infrastructure\\MiniMonster.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Infrastructure\\MiniMonster.Infrastructure.csproj",
+        "projectName": "MiniMonster.Infrastructure",
+        "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Infrastructure\\MiniMonster.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\fcfar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fcfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj": {
+                "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj"
+              },
+              "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Domain\\MiniMonster.Domain.csproj": {
+                "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Domain\\MiniMonster.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.WebAPI\\MiniMonster.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.WebAPI\\MiniMonster.WebAPI.csproj",
+        "projectName": "MiniMonster.WebAPI",
+        "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.WebAPI\\MiniMonster.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\fcfar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fcfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj": {
+                "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Application\\MiniMonster.Application.csproj"
+              },
+              "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Infrastructure\\MiniMonster.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\fcfar\\Desktop\\salam\\MiniMonster\\MiniMonster.Infrastructure\\MiniMonster.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
