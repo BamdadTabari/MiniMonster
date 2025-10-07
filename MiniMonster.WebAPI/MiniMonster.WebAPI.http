@@ -1,0 +1,6 @@
+@MiniMonster.WebAPI_HostAddress = http://localhost:5013
+
+GET {{MiniMonster.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
